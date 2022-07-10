@@ -1,0 +1,21 @@
+{
+    "name": "soul-reaper-theme",
+    "displayName": "Soul Reaper Theme",
+    "description": "a color theme inspired in bleach anime/manga series",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Soul Reaper Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Soul-Reaper-color-theme.json"
+            }
+        ]
+    }
+}
