@@ -1,13 +1,8 @@
 # README
-## This is the README for your extension "bleach-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+## Soul Reaper theme
+this is an extension of color theme for vscode, inspired in Bleach anime/manga series.
+It is being built and it will be updated along of the time.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+### Testing extension
+To test this extension, just press F5 key in vscode with this project open, it will start debug mode, so clicl in File -> Preferences -> Color Theme -> Soul Reaper Theme
