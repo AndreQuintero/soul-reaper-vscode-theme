@@ -334,15 +334,13 @@
 		},
 		{
 		  "scope": [
-			"comment.line.scss",
-			"comment.line.double-slash.js",
-			"punctuation.definition.comment.scss",
-			"punctuation.definition.comment.js",
-			"punctuation.definition.comment.html",
-			"comment.block.html"
+			"comment.line",
+			"comment.line.double-slash",
+			"punctuation.definition.comment",
+			"comment.block"
 		  ],
 		  "settings": {
-			"foreground": "#6D6F7C"
+			"foreground": "#F0783093"
 		  }
 		},
 		{
@@ -548,7 +546,6 @@
 		  "scope": [
 			"entity.other.attribute-name.id",
 			"entity.other.attribute-name.class",
-			"entity.other.attribute-name.pseudo-class",
 			"entity.name.tag.css",
 			"keyword.control.conditional.js",
 			"support.constant",
@@ -560,6 +557,15 @@
 		  "settings": {
 			"foreground": "#D8D8D8"
 		  }
+		},
+		{
+			"scope": [
+				"entity.other.attribute-name.pseudo-class"
+			],
+			"settings": {
+				"foreground": "#D8D8D8",
+				"fontStyle": "bold"
+			}
 		},
 		{
 		  "scope": [
