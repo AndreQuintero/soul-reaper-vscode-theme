@@ -511,7 +511,7 @@
 			"source.postcss support.type.property-name"
 		  ],
 		  "settings": {
-			"foreground": "#307890"
+			"foreground": "#F07830"
 		  }
 		},
 		{
@@ -633,7 +633,7 @@
 			"support.type.property-name.json"
 		  ],
 		  "settings": {
-			"foreground": "#D8D8D8"
+			"foreground": "#F07830"
 		  }
 		},
 		{
