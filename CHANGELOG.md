@@ -6,6 +6,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.1.0] - 2022-07-14
+
+### Changed
+- HTML tags color changed to light yellow
+- Custom Tags color changed to light orange
+- Object keys changed to light blue
+
 ## [0.0.6] - 2022-07-12
 
 ### Added
@@ -22,7 +29,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 - color of commentaries now are opacity orange to better visualization
 
-
+[0.1.0]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/0.0.6...0.1.0
 [0.0.6]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/0.0.5...0.0.6
 [0.0.5]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/0.0.4...0.0.5
 
