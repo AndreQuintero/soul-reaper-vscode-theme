@@ -355,7 +355,7 @@
 			"markup.deleted.git_gutter"
 		  ],
 		  "settings": {
-			"foreground": "#D8D8D8"
+			"foreground": "#e2ee7a"
 		  }
 		},
 		{
@@ -435,8 +435,14 @@
 			"source.sass keyword.control"
 		  ],
 		  "settings": {
-			"foreground": "#C0C0D8"
+			"foreground": "#f1f1fc"
 		  }
+		},
+		{
+			"scope": "string.quoted.double.json",
+			"settings": {
+				"foreground": "#C0C0D8"
+			}
 		},
 		{
 		  "scope": [
@@ -501,7 +507,7 @@
 			"entity.other.attribute-name.html"
 		  ],
 		  "settings": {
-			"foreground": "#78A8A8"
+			"foreground": "#e7c17a"
 		  }
 		},
 		{
@@ -552,7 +558,7 @@
 			"support.function"
 		  ],
 		  "settings": {
-			"foreground": "#78A8A8"
+			"foreground": "#C0C0D8"
 		  }
 		},
 		{
@@ -567,7 +573,7 @@
 			"meta.object-literal.key"
 		  ],
 		  "settings": {
-			"foreground": "#D8D8D8"
+			"foreground": "#C0C0D8"
 		  }
 		},
 		{
