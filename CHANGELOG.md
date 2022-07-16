@@ -47,7 +47,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 - color of commentaries now are opacity orange to better visualization
 
-[1.0.0]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/1.0.0...1.0.1
+[1.0.1]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/0.1.0...1.0.0
 [0.1.0]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/0.0.6...0.1.0
 [0.0.6]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/0.0.5...0.0.6
