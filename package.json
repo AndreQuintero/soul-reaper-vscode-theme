@@ -18,7 +18,11 @@
         "vscode theme",
         "dark",
         "dark theme",
-        "react"
+        "react",
+        "javascript",
+        "typescript",
+        "sql",
+        "css"
     ],
     "repository": {
         "type": "git",
