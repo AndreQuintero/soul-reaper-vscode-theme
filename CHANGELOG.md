@@ -6,6 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.1] - 2022-07-16
+
+### Fixed
+- Fix readme images
+
+### Changed
+- CSS class names selectors color, from white to light orange
+- numeric consts and unit keywords color in css file to light yellow
+
 ## [1.0.0] - 2022-07-16
 
 ### Changed
@@ -38,6 +47,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 - color of commentaries now are opacity orange to better visualization
 
+[1.0.0]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/0.1.0...1.0.0
 [0.1.0]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/0.0.6...0.1.0
 [0.0.6]: https://github.com/AndreQuintero/soul-reaper-vscode-theme/compare/0.0.5...0.0.6
