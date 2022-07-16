@@ -378,7 +378,11 @@
 			"scope": [
 				"variable.name",
 				"meta.definition.variable",
-				"variable.parameter"
+				"variable.parameter",
+				"variable.css",
+				"variable.scss",
+				"variable.stylus",
+				"variable.less"
 			],
 			"settings": {
 				"foreground": "#f19e32",
@@ -465,7 +469,6 @@
 		},
 		{
 		  "scope": [
-			"constant.numeric",
 			"constant.language",
 			"constant.character",
 			"constant.escape",
@@ -482,7 +485,6 @@
 			"constant.other.symbol",
 			"constant.other.key",
 			"entity.other.inherited-class",
-			"keyword.other.unit",
 			"markup.heading",
 			"markup.inserted.git_gutter",
 			"meta.group.braces.curly",
@@ -504,7 +506,8 @@
 			"support.other.namespace.php",
 			"markup.changed.git_gutter",
 			"support.type.sys-types",
-			"entity.other.attribute-name.html"
+			"entity.other.attribute-name.html",
+			"entity.other.attribute-name.class.css"
 		  ],
 		  "settings": {
 			"foreground": "#e7c17a"
@@ -810,6 +813,50 @@
 		  "settings": {
 			"foreground": "#A8C0C0"
 		  }
+		},
+		{
+			"scope": [
+				"keyword.other.unit",
+				"constant.numeric.css",
+				"constant.numeric.scss",
+				"constant.numeric.less",
+				"constant.numeric.stylus",
+				"constant.numeric.sql"
+			],
+			"settings": {
+				"foreground": "#E2EE7A"
+			}
+		},
+		{
+			"scope": "constant.other.database-name.sql",
+			"settings": {
+				"foreground": "#F07830",
+			}
+		},
+		{
+			"scope": "keyword.other.sql",
+			"settings": {
+				"foreground": "#faac46"
+			}
+		},
+		{
+			"scope": [
+				"string.quoted.single.sql", 
+				"string.quoted.double.sql"
+			],
+			"settings": {
+				"foreground": "#E2EE7A"
+			}
+		},
+		{
+			"scope": [
+				"keyword.other.DML.sql",
+				"keyword.other.DDL.sql"
+			],
+			"settings": {
+				"foreground": "#f8d76b",
+				"fontStyle": "bold"
+			}
 		}
 	  ]
   }
