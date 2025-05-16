@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [1.0.2] - 2025-05-16
+
+### Added
+- Logo for project
+
 ## [1.0.1] - 2022-07-16
 
 ### Fixed
